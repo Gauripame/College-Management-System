@@ -1,0 +1,27 @@
+Android Development Frameworks
+In general, the basic method of creating an Android app is to use Android Studio (As it is the official IDE for Android). However, there are many other Android Development Frameworks that are quite popular in and to provide you a little variety, the list is given below… 
+
+ 
+
+1. Ionic
+Ionic Framework is a very popular open-source mobile framework that was released in 2013. It’s also free and MIT open source (so it will most probably remain free!). According to its website, Ionic can be used to “Build and ship beautiful cross-platform hybrid and Progressive Web Apps with ease.” And that’s not all! Ionic is also a cross-platform framework, which means that you can create apps and then customize them for Android, iOS, Windows, etc. Also, if you have a problem with your documentation, fear not! Ionic has documentation support with real-life examples. 
+
+ 
+
+2. Xamarin
+Xamarin is an extremely popular Mobile framework(With over 1.4 million developers using it!) that was acquired by Microsoft in 2016 and is currently a Microsoft subsidiary. According to Xamarin, “Apps built using Xamarin look and feel native because they are.” So basically, Xamarin can be used to write native Android, iOS and Windows apps with a C# codebase (Xamarin is great for C# developers!) that can also be shared across multiple platforms. Xamarin is also popular (and only!) IDE with Microsoft Visual Studio and can be used to create native apps with AutoComplete and IntelliSense. 
+
+ 
+
+3. Adobe PhoneGap
+Adobe PhoneGap is an open-source mobile application development framework that was purchased by Adobe Systems in 2011. Its unique feature is that it can be used to build mobile applications using HTML5, CSS3, and JavaScript instead of using API like Android, iOS, or Windows Phone. According to PhoneGap, it can be used to “Reuse existing web development skills to quickly make hybrid applications built with HTML, CSS, and JavaScript.” 
+
+ 
+
+4. React Native
+React Native is an open-source mobile framework that was created by Facebook and released in 2015. According to Mark Zuckerberg, “The biggest mistake we made as a company was betting too much on HTML as opposed to native” and that lead to the creation of React Native. It provides support for various IDEs and mobile app development tools and that is one of the main reasons it is used by many (popular!) companies such as Instagram, Tesla, Walmart, Baidu, etc. to develop their mobile apps. 
+
+ 
+
+5. Flutter
+Flutter is a comparatively recent open-source development framework that was released by Google in 2017. According to Google, “Flutter is Google’s portable UI toolkit for building beautiful, natively-compiled applications for mobile, web, and desktop from a single codebase.” Flutter is written in the Dart programming language (Also developed by Google) and it is currently used by famous companies such as Alibaba, Tencent, Google (Of course!). Flutter provides rendering support by using the 2D rendering engine Skia. 
